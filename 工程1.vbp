@@ -1,7 +1,9 @@
 Type=Exe
 Form=Form1.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+IconForm="Form1"
 Startup="Form1"
+ExeName32="circle.exe"
 Command32=""
 Name="¹¤³Ì1"
 HelpContextID="0"
@@ -27,6 +29,7 @@ Unattended=0
 Retained=0
 ThreadPerObject=0
 MaxNumberOfThreads=1
+DebugStartupOption=0
 
 [MS Transaction Server]
 AutoRefresh=1
