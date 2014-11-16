@@ -3,12 +3,11 @@ vbCircleDraw
 
 Drawing circle...
 
-Ëæ»úÈ¡µã²¢Á¬½Ó£¬È¡ÖÐµãÔÙÁ¬½Ó¡£
-ÀíÂÛÂÛÎÄ£ºhttp://www.cs.cornell.edu/cv/ResearchPDF/PolygonSmoothingPaper.pdf
+éšæœºå–ç‚¹å¹¶è¿žæŽ¥ï¼Œå–ä¸­ç‚¹å†è¿žæŽ¥ã€‚
+ç†è®ºè®ºæ–‡ï¼šhttp://www.cs.cornell.edu/cv/ResearchPDF/PolygonSmoothingPaper.pdf
 
-ËæÊÖÒ»Ð´£¬²»±£Ö¤ÀíÂÛÀí½âÃ»ÎÊÌâ= =
+éšæ‰‹ä¸€å†™ï¼Œä¸ä¿è¯ç†è®ºç†è§£æ²¡é—®é¢˜= =
 
-¾ßÌå²ÎÊýËµÃ÷¿Éµã»÷help°´Å¥
+å…·ä½“å‚æ•°è¯´æ˜Žå¯ç‚¹å‡»helpæŒ‰é’®
 
-bugÒÑ¾­Ïû³ý£¬»á×Ô¶¯Ëõ·Å£¬¾«¶ÈÌá¸ß¡£
-»¶Ó­ÍÂ²Û£¬ÈËÈËÖ÷Ò³ ³ÂÊËçô.cmd
+bugå·²ç»æ¶ˆé™¤ï¼Œä¼šè‡ªåŠ¨ç¼©æ”¾ï¼Œç²¾åº¦æé«˜ã€‚
